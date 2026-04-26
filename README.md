@@ -12,7 +12,7 @@ SRGAN-custom/
 ├── train.py       # Training script (Adversarial + Perceptual + Pixel loss)
 └── README.md
 
-text## ✨ Features
+## ✨ Features
 
 - Custom **RRDB** (Residual-in-Residual Dense Block) architecture
 - Generator with skip connection (residual learning)
