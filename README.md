@@ -11,6 +11,7 @@ SRGAN-custom/
 ├── loss.py        # VGG Perceptual Loss
 ├── train.py       # Training script (Adversarial + Perceptual + Pixel loss)
 └── README.md
+
 text## ✨ Features
 
 - Custom **RRDB** (Residual-in-Residual Dense Block) architecture
