@@ -25,5 +25,5 @@ transform = transforms.Compose([
     transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
 ])
 
-dataset = ImageDataset(root=r"D:\Object_Detection\SRGAN\images\train", transform=transform)
+dataset = ImageDataset(root=r"\images\train", transform=transform)
 dataloader = DataLoader(dataset, batch_size=1, shuffle=True)
